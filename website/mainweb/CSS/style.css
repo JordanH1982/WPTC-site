@@ -1,0 +1,68 @@
+.container-fluid {
+    background-color: #050505;
+ }
+ 
+ .logo-center-click {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ 
+ .click-text {
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   color: #D7D6D6;
+ }
+
+ .nav-item, .navbar-brand, p {
+    font-family: 'Courier New', Courier, monospace;
+   
+ }
+ 
+ h1, h2, .text {
+   font-family: 'Courier New', Courier, monospace;
+   margin: 30px;
+   color: white;
+  }
+ 
+ .container {
+   background-color: black;
+ }
+ 
+ p {
+   color: white;
+   margin: 30px;
+ }
+ 
+ body {
+   background: black
+ }
+ 
+ .logo-blog {
+   height: 100px;
+   width: 100px;
+ }
+
+ .blog {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin: 0px;
+    display: block;
+    text-align: center;
+ }
+
+ .art {
+     margin: 30px;
+     height: 200px;
+     width: 200px;
+ }
+
+ .image-biopic {
+     margin: 30px;
+     height: 150px;
+     width: 150px;
+ }
+
+.biotext {
+    text-align: left;
+}
